@@ -1,7 +1,7 @@
 {
     "name": "sincco/language-es_mx",
     "description": "Magento 2 es_MX language pack",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
