@@ -11,8 +11,5 @@
         "files": [
             "registration.php"
         ]
-    },
-    "extra": {
-        "map": [["*", "sincco/es_mx"]]
     }
 }
